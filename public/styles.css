@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgb(238, 233, 226);
+}
+
+.Dite {
+  font-size: 900;
+  padding: 20px;
+  background-color: rgb(80, 76, 69);
+  color: white;
+}
+
+.Header {
+  margin-bottom: 200px;
+  color: ;
+}
+
+.footer {
+  margin-top: 200px;
+  padding-bottom: 20px;
+}
